@@ -1,0 +1,7 @@
+# 压测输出结果
+*.jtl
+report_*/
+*.csv
+
+# git本地日志
+.git/
